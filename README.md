@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning Front-End Web Development Learning Path at Dicoding
 - 👯 I'm looking to collaborate on Movie Catalogue project
 - 📫 How to reach me on 
-<a href="https://www.instagram.com/_pcxyz/" target="_blank">Instagram</a>, 
+<a href="https://www.instagram.com/uixhendri/" target="_blank">Instagram</a>, 
 <a href="https://www.linkedin.com/in/hendri-prastio/" target="_blank">LinkedIn</a>, and 
 <a href="https://www.behance.net/hendriprastio/" target="_blank">Behance</a>
  
